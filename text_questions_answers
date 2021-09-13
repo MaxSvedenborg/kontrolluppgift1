@@ -1,0 +1,51 @@
+Textuppgifter för inlämningstentan:
+
+
+1. Förklara vad en variabel är.
+
+En variabel är ett definierat namn för en plats i datorns minne där du lagrar vald data.
+Datan är föränderlig och kan vara av olika datatyper.
+
+2. Förklara vad en funktion är.
+
+En funktion är en relativt oberoende del av ett program som kan anropas för att utföra en fördefinierad uppgift,
+exempelvis att returnera ett värde från en beräkning, dvs utföra en rad operationer.
+Funktionen i sig kan vara oändligt stor beroende på hur många operationer man vill skall utföras i följd,
+och kan i sig fungera som ett eget program vilket gör att funktioner ibland kallas underprogram.
+En funktion skapas oftast på sättet att den kan anropas flera gånger från olika platser i programmet,
+genom att man skickar argument till funktionen.
+Detta gör en funktion väldigt användbar då man slipper skriva om den specifika uppgiften man vill få utförd flera
+gånger i sitt program, och kan istället anropa funktionen som är fördefinierad.
+
+3. Förklara vad ett program är.
+
+Ett program, är en serie instruktioner till datorn, innehållandes operationer som ska utföras, då programmet körs.
+I typiska fall skrivs programmet i ett programspråk exempelvis Python,
+som sedan vid körning kompileras till maskinkod vilket datorn förstår, och operationerna i programmet kan då utföras.
+
+4. Förklara vad som gör ett program effektivt.
+
+Det finns olika sätt ett program kan vara effektivt på.
+Ett program kan vara effektivt i tid, dvs att det körs snabbt tidsmässigt.
+Detta uppnås genom att exempelvis använda korrekta funktioner och algoritmer till valda uppgifter,
+för att undvika onödig kod som programmet behöver hantera vid körning.
+Ett program kan också vara effektivt i minneshantering och lagring,
+tack vare att man använder sig utav rätt lösningar och datastrukturer för att hantera allt i rätt format
+med minsta möjliga negativa prestandapåverkan.
+De olika sätten går oftast hand i hand för att ett program ska vara så effektivt som möjligt.
+
+
+5. Förklara vad effektiv programmering är.
+
+Effektiv programmering handlar om flera saker. Att skriva sin kod lättbegriplig,
+eventuellt genom att hålla sig till officiella syntaxregler inom språket (som PEP-8 te.x),
+så programmerare snabbt kan sätta sig in i koden och utföra sin uppgift är en sak.
+En annan sak vilket utgör effektiv programmering är att använda sig utav rätt kod till rätt ändamål,
+för att inte programmet ska köra onödig kod eller onödigt prestandakrävande kod,
+samt att välja vilken del av kod som skall köras vid vilket tillfälle.
+Även hur man skriver sin kod,
+dvs om man väljer att göra det imperativt eller deklarativt är olika former av effektiv programmering.
+Detsamma gäller såklart om man väljer att skriva ett program med objektorienterad struktur eller
+om man använder sig utav funktionell programmering. I grund och botten handlar det om de medvetna valen av
+ hur man går till väga, vilket är tydligt om det är effektivt eller inte i slutändan.
+
